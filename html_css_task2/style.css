@@ -7,7 +7,6 @@ body {
 header {
   padding: 20px 0;
   width: 100%;
-  /*position: absolute;*/
 }
 
 .contents-tidy {
@@ -49,7 +48,6 @@ p {
 
 .header-nav .menu-items {
   display: block;
-  /*margin: 20px;*/
 }
 
 .menu-items {
@@ -503,8 +501,12 @@ p {
 }
 
 .course-unit {
-  width: 48%;
-  padding-left: 20px;
+  width: 47%;
+  padding-left: 25px;
+}
+
+.unit-box img {
+  width: 92%;
 }
 
 .unit-title {
